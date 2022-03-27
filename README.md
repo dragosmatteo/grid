@@ -1,6 +1,6 @@
 # Frontend Mentor - Testimonials grid section
 
-![Site->](https://grid-jet.vercel.app/)
+https://grid-jet.vercel.app/
 
 ## Welcome! 👋
 
